@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MAAykanat)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MAAykanat&theme=github-dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
