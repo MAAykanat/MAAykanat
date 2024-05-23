@@ -21,5 +21,9 @@ hobbies: ["History", "Science", "New Culture"]
 
 ### Connect with me:
 [![website](./img/linkedin.svg)](https://www.linkedin.com/in/muhammet-ali-aykanat/)
+<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
+<a href="https://www.python.org/" target="_blank"><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></a>
+
+
 <!--
 **MAAykanat/MAAykanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
