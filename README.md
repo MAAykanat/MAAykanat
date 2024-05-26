@@ -58,7 +58,7 @@ hobbies: ["History", "Science", "New Culture"]
 <img width="46px" src="./img/MATLAB.svg"></img>
 <img width="46px" src="./img/R.svg"></img>
 <img width="100px" src="./img/Ros.svg"></img>
-<img width="100px" src="./img/Gazebo.svg"></img>
+<img width="120px" src="./img/Gazebo.svg"></img>
 <img width="120px" src="./img/Cmake.svg"></img>
 
 
