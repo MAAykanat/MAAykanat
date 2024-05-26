@@ -19,10 +19,18 @@ hobbies: ["History", "Science", "New Culture"]
 <a ><img src="https://streak-stats.demolab.com?user=MAAykanat&theme=github-dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
-### Connect with me:
+## :handshake: Hit me up:
+[![website](./img/github.svg)](https://github.com/MAAykanat/)
 [![website](./img/linkedin.svg)](https://www.linkedin.com/in/muhammet-ali-aykanat/)
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
-<a href="https://www.python.org/" target="_blank"><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></a>
+[![Gmail](./img/gmail.svg)](mailto:m.a.aykanat@gmail.com)
+
+## :hammer_and_wrench: Tech and Tool Set:
+![Static Badge](https://img.shields.io/badge/Python-333333?logo=Python&labelColor=green)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-333333?logo=C%2B%2B&labelColor=green)
+
+![Static Badge](https://img.shields.io/badge/Windows-333333?logo=Windows&labelColor=green)
+
+
 
 
 <!--
