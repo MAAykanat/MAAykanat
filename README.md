@@ -29,6 +29,8 @@ hobbies: ["History", "Science", "New Culture"]
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-333333?logo=C%2B%2B&labelColor=green)
 
 ![Static Badge](https://img.shields.io/badge/Windows-333333?logo=Windows&labelColor=green)
+![Static Badge](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=Linux&labelColor=%2335C63FFE)
+
 
 
 
