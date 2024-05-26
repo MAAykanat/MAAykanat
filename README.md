@@ -53,7 +53,7 @@ hobbies: ["History", "Science", "New Culture"]
 <img width="46px" src="./img/Keras.svg"></img>
 <img width="100px" src="./img/Matplotlib.svg"></img>
 
-### :computer: For Academic Research:
+### :computer: Academic Research Level:
 
 <img width="46px" src="./img/MATLAB.svg"></img>
 <img width="46px" src="./img/R.svg"></img>
