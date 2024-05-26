@@ -25,42 +25,41 @@ hobbies: ["History", "Science", "New Culture"]
 [![Gmail](./img/gmail.svg)](mailto:m.a.aykanat@gmail.com)
 
 ## :hammer_and_wrench: Tech and Tool Set:
-<img width="42px" src="./img/Python.svg"></img> 
-<img width="50px" src="./img/c++.svg"></img>
+<a href="https://www.python.org/" target="_blank"> <img width="42px" src="./img/Python.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="50px" src="./img/c++.svg"></img> </a>
 
-<img width="40px" src="./img/Windows.svg"></img>
-<img width="40px" src="./img/Linux.svg"></img>
-<img width="40px" src="./img/Raspberrypi.svg"></img>
-<img width="46px" src="./img/Arduino.svg"></img>
-<img width="50px" src="./img/Nvidia.svg"></img>
+<a href="https://www.python.org/" target="_blank"> <img width="40px" src="./img/Windows.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="40px" src="./img/Linux.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="40px" src="./img/Raspberrypi.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="46px" src="./img/Arduino.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="50px" src="./img/Nvidia.svg"></img> </a>
+
+<a href="https://www.python.org/" target="_blank"> <img width="46px" src="./img/Visual Studio.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="46px" src="./img/Visual Studio Code.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="46px" src="./img/Jupyter_logo.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="46px" src="./img/Vim.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="46px" src="./img/Terminal.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="100px" src="./img/Bash.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="46px" src="./img/GitHub Codespaces.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="100px" src="./img/Kaggle.svg"></img> </a>
 
 
-<img width="46px" src="./img/Visual Studio.svg"></img>
-<img width="46px" src="./img/Visual Studio Code.svg"></img>
-<img width="46px" src="./img/Jupyter_logo.svg"></img>
-<img width="46px" src="./img/Vim.svg"></img>
-<img width="46px" src="./img/Terminal.svg"></img>
-<img width="100px" src="./img/Bash.svg"></img>
-<img width="46px" src="./img/GitHub Codespaces.svg"></img>
-<img width="100px" src="./img/Kaggle.svg"></img>
-
-
-<img width="120px" src="./img/Numpy.svg"></img>
-<img width="60px" src="./img/Pandas.svg"></img>
-<img width="60px" src="./img/Scikit-learn.svg"></img>
-<img width="120px" src="./img/Opencv.svg"></img>
-<img width="50px" src="./img/Tensorflow.svg"></img>
-<img width="46px" src="./img/Keras.svg"></img>
-<img width="50px" src="./img/Matplotlib.svg"></img>
+<a href="https://www.python.org/" target="_blank"> <img width="120px" src="./img/Numpy.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="60px" src="./img/Pandas.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="60px" src="./img/Scikit-learn.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="120px" src="./img/Opencv.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="50px" src="./img/Tensorflow.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="46px" src="./img/Keras.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="50px" src="./img/Matplotlib.svg"></img> </a>
 
 ### :computer: Academic Research Level:
 
-<img width="46px" src="./img/MATLAB.svg"></img>
-<img width="46px" src="./img/R.svg"></img>
-<img width="40px" src="./img/Mathematica.svg"></img>
-<img width="100px" src="./img/Ros.svg"></img>
-<img width="120px" src="./img/Gazebo.svg"></img>
-<img width="120px" src="./img/Cmake.svg"></img>
+<a href="https://www.python.org/" target="_blank"> <img width="46px" src="./img/MATLAB.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="46px" src="./img/R.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="40px" src="./img/Mathematica.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="100px" src="./img/Ros.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="120px" src="./img/Gazebo.svg"></img> </a>
+<a href="https://www.python.org/" target="_blank"> <img width="120px" src="./img/Cmake.svg"></img> </a>
 
 
 <!--
