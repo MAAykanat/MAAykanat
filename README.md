@@ -16,7 +16,7 @@ will_learn: ["Generative Models", "SQL"]
 hobbies: ["History", "Science", "New Culture"]
 ```
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MAAykanat&theme=github-dark&hide_border=true" alt="GitHub Streak" /></a>
+<a ><img src="https://streak-stats.demolab.com?user=MAAykanat&theme=github-dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 ### Connect with me:
