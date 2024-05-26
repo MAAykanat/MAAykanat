@@ -25,11 +25,13 @@ hobbies: ["History", "Science", "New Culture"]
 [![Gmail](./img/gmail.svg)](mailto:m.a.aykanat@gmail.com)
 
 ## :hammer_and_wrench: Tech and Tool Set:
-![Static Badge](https://img.shields.io/badge/Python-333333?logo=Python&labelColor=green)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-333333?logo=C%2B%2B&labelColor=green)
+<img width="46px" src="./img/icons8-python.svg"></img>
+<img width="46px" src="./img/c++.svg"></img>
 
-![Static Badge](https://img.shields.io/badge/Windows-333333?logo=Windows&labelColor=green)
-![Static Badge](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=Linux&labelColor=%2335C63FFE)
+
+<img width="46px" src="./img/tensorflow-icon.svg"></img>
+
+
 
 
 
