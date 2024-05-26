@@ -25,8 +25,8 @@ hobbies: ["History", "Science", "New Culture"]
 [![Gmail](./img/gmail.svg)](mailto:m.a.aykanat@gmail.com)
 
 ## :hammer_and_wrench: Tech and Tool Set:
-<img width="40px" src="./img/Python.svg"></img> 
-<img width="46px" src="./img/c++.svg"></img>
+<img width="42px" src="./img/Python.svg"></img> 
+<img width="50px" src="./img/c++.svg"></img>
 
 <img width="40px" src="./img/Windows.svg"></img>
 <img width="40px" src="./img/Linux.svg"></img>
