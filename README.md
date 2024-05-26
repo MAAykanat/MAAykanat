@@ -48,8 +48,8 @@ hobbies: ["History", "Science", "New Culture"]
 <img width="120px" src="./img/Numpy.svg"></img>
 <img width="60px" src="./img/Pandas.svg"></img>
 <img width="60px" src="./img/Scikit-learn.svg"></img>
-<img width="50px" src="./img/Opencv.svg"></img>
-<img width="100px" src="./img/Tensorflow.svg"></img>
+<img width="120px" src="./img/Opencv.svg"></img>
+<img width="50px" src="./img/Tensorflow.svg"></img>
 <img width="46px" src="./img/Keras.svg"></img>
 <img width="100px" src="./img/Matplotlib.svg"></img>
 
@@ -58,7 +58,7 @@ hobbies: ["History", "Science", "New Culture"]
 <img width="46px" src="./img/MATLAB.svg"></img>
 <img width="46px" src="./img/R.svg"></img>
 <img width="100px" src="./img/Ros.svg"></img>
-<img width="120px" src="./img/Gazebo.svg"></img>
+<img width="100px" src="./img/Gazebo.svg"></img>
 <img width="120px" src="./img/Cmake.svg"></img>
 
 
