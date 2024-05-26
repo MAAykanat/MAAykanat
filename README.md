@@ -51,7 +51,7 @@ hobbies: ["History", "Science", "New Culture"]
 <img width="120px" src="./img/Opencv.svg"></img>
 <img width="50px" src="./img/Tensorflow.svg"></img>
 <img width="46px" src="./img/Keras.svg"></img>
-<img width="100px" src="./img/Matplotlib.svg"></img>
+<img width="50px" src="./img/Matplotlib.svg"></img>
 
 ### :computer: Academic Research Level:
 
