@@ -45,7 +45,7 @@ hobbies: ["History", "Science", "New Culture"]
 
 
 <a href="https://numpy.org/" target="_blank"> <img width="120px" src="./img/Numpy.svg"></img> </a>
-<a href="pandas.pydata.org" target="_blank"> <img width="60px" src="./img/Pandas.svg"></img> </a>
+<a href="https://pandas.pydata.org/" target="_blank"> <img width="60px" src="./img/Pandas.svg"></img> </a>
 <a href="https://scikit-learn.org/stable/" target="_blank"> <img width="60px" src="./img/Scikit-learn.svg"></img> </a>
 <a href="https://opencv.org/" target="_blank"> <img width="120px" src="./img/Opencv.svg"></img> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img width="50px" src="./img/Tensorflow.svg"></img> </a>
