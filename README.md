@@ -43,8 +43,8 @@ hobbies: ["History", "Science", "New Culture"]
 <a href="https://github.com/MAAykanat" target="_blank"> <img width="46px" src="./img/GitHub Codespaces.svg"></img> </a>
 <a href="https://www.kaggle.com/muhammetaliaykanat" target="_blank"> <img width="100px" src="./img/Kaggle.svg"></img> </a>
 
-
 <a href="https://numpy.org/" target="_blank"> <img width="120px" src="./img/Numpy.svg"></img> </a>
+<a href="https://seaborn.pydata.org/" target="_blank"> <img width="130px" src="./img/Seaborn.svg"></img> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img width="60px" src="./img/Pandas.svg"></img> </a>
 <a href="https://scikit-learn.org/stable/" target="_blank"> <img width="60px" src="./img/Scikit-learn.svg"></img> </a>
 <a href="https://opencv.org/" target="_blank"> <img width="120px" src="./img/Opencv.svg"></img> </a>
