@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="google-site-verification" content="tvVRwCseCQVPTqB9fiuaaR0LKNx037OWtrXK2WC_jDs" />
+    <div align="center">
+        <a href="https://github.com/MAAykanat">
+            <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&duration=2500&pause=2000&color=35C63FFE&center=true&vCenter=true&random=false&width=600&height=100&lines=Software+Engineer+%7C+AI+Researcher+%7C+Ph.D.c" alt="Typing SVG" />
+        </a>
+    </div>
+</html>
+
 <meta name="google-site-verification" content="tvVRwCseCQVPTqB9fiuaaR0LKNx037OWtrXK2WC_jDs" />
 <div align="center">
 <a href="https://github.com/MAAykanat"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&duration=2500&pause=2000&color=35C63FFE&center=true&vCenter=true&random=false&width=600&height=100&lines=Sofware+Engineer+%7C+AI+Researcher+%7C+Ph.D.c" alt="Typing SVG" /></a>
