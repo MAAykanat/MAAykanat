@@ -17,7 +17,7 @@ hobbies: ["History", "Science", "New Culture"]
 ```
 
 <div align="center">
-<a ><img src="https://streak-stats.demolab.com?user=MAAykanat&theme=github-dark&hide_border=true&border_radius=4.6" alt="GitHub Streak" /></a>
+<a ><img src="https://streak-stats.demolab.com?user=MAAykanat&theme=github-dark&hide_border=true&border_radius=4.5" alt="GitHub Streak" /></a>
 </div>
 
 ## :handshake: Hit me up:
