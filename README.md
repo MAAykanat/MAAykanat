@@ -11,7 +11,7 @@ company: Dener Group
 languages: ["Python", "C++"]
 fields_of_researches: ["Machine Learning", "Deep Learning", "Computer Vision", "Image Processing", 
                       "Optimization", "Data Science"]
-currently_learning: ["GPU Programming", "Tensorflow", "Pytorch"]
+currently_learning: ["GPU Programming", "Spark", "Airflow"]
 will_learn: ["Generative Models", "SQL"]
 hobbies: ["History", "Science", "New Culture"]
 ```
